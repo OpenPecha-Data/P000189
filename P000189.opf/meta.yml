@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །འཕགས་པ་བྱམས་པའི་སྨོན་ལམ་གྱི་འགྲེལ་པ་ཐོགས་མེད་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  sku: KS-PK-19
+  layers:
+  - book_title
+  - author
+  - tsawa
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Clarifying Asanga’s Intent:A Commentary on Arya Maitreya’s Aspirational Prayer
+    bo: འཕགས་པ་བྱམས་པའི་སྨོན་ལམ་གྱི་འགྲེལ་པ་ཐོགས་མེད་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ་བཞུགས་སོ།
+      །
+  collection:
+    en: Pema Karpo Series–  Book 19
+    bo: ཀུན་མཁྱེན་གཞུང་འགྲེལ།–  དེབ། ༡༩
+  author:
+    en: Kunkhyen Pema Karpo
+    bo: ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-PK-19
+  category:
+    en: Three Vows
+    bo: སྡོམ་གསུམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-PK-19.epub
+  description:
+    en: ''
+    bo: ''
