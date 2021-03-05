@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000189
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །འཕགས་པ་བྱམས་པའི་སྨོན་ལམ་གྱི་འགྲེལ་པ་ཐོགས་མེད་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-19
   layers:
   - book_title
   - author
   - tsawa
   - sabche
   - yigchung
+  id: KS-PK-19
 web_metadata:
   title:
     en: Clarifying Asanga’s Intent:A Commentary on Arya Maitreya’s Aspirational Prayer
